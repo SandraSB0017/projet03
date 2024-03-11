@@ -1,3 +1,10 @@
+0 - modifier l'origin de github
+
+```bash
+git remote remove origin
+git remote add origin git@github.com:SandraSB0017/projet03.git
+```
+
 1 - Start docker compose stack
 
 ```bash
